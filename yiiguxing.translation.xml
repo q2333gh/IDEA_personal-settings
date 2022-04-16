@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="1698" />
     <option name="newTranslationDialogY" value="832" />
     <histories>
+      <item value="root" />
+      <item value="username" />
+      <item value="debug" />
+      <item value="mybatisplus" />
+      <item value="baomidou" />
       <item value="Spring Application" />
       <item value="run" />
       <item value="Quickstart Application" />
@@ -12,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
