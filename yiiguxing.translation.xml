@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1698" />
     <option name="newTranslationDialogY" value="832" />
     <histories>
+      <item value="java: 程序包com.sun.xml.internal.ws.util.xml不存在" />
       <item value="root" />
       <item value="username" />
       <item value="debug" />
@@ -17,7 +18,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
+        <entry key="CHINESE" value="10" />
         <entry key="ENGLISH" value="10" />
       </map>
     </option>
