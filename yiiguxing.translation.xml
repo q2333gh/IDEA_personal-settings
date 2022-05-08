@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1598" />
     <option name="newTranslationDialogY" value="829" />
     <histories>
+      <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="Returns an iterator to this stack that iterates through the items in LIFO order. @return an iterator to this stack that iterates through the items in LIFO order" />
       <item value="private class LinkedIterator implements Iterator&lt;Item&gt; { private Node&lt;Item&gt; current;" />
       <item value="Linked Iterator" />
@@ -21,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
