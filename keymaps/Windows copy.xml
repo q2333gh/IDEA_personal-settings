@@ -2,6 +2,9 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateKeyPromoterXToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="BookmarksView.Rename" />
   <action id="ChangesView.Rename" />
@@ -23,6 +26,7 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
+  <action id="FileStructurePopup" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="GotoNextError" />
