@@ -40,6 +40,7 @@
     <keyboard-shortcut first-keystroke="escape" />
   </action>
   <action id="NavBar-cancel" />
+  <action id="OptimizeImports" />
   <action id="RemoteHostView.Rename" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -52,7 +53,7 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="ResetToMySettings">
-    <keyboard-shortcut first-keystroke="shift o" />
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
   <action id="Resume" />
   <action id="Session.Rename" />
@@ -65,5 +66,6 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="UsageGrouping.FlattenModules" />
   <action id="XDebugger.SetValue" />
 </keymap>
