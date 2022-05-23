@@ -11,6 +11,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CloseGotItTooltip" />
   <action id="CompileDirty" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
@@ -25,13 +26,20 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorEscape" />
   <action id="EditorSelectWord" />
+  <action id="EscUnfollowUserAction" />
   <action id="FileStructurePopup" />
+  <action id="FocusEditor" />
   <action id="Git.Rename.Local.Branch" />
   <action id="Git.Reword.Commit" />
   <action id="GotoNextError" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="NavBar-cancel" />
   <action id="RemoteHostView.Rename" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -52,6 +60,7 @@
   <action id="SmartSelect" />
   <action id="Table-startEditing" />
   <action id="TableResult.GrowSelection" />
+  <action id="Terminal.SwitchFocusToEditor" />
   <action id="Tree-startEditing" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
