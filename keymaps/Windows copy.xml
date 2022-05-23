@@ -43,6 +43,9 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
+  <action id="ResetToMySettings">
+    <keyboard-shortcut first-keystroke="shift o" />
+  </action>
   <action id="Resume" />
   <action id="Session.Rename" />
   <action id="ShelvedChanges.Rename" />
