@@ -41,10 +41,13 @@
   </action>
   <action id="NavBar-cancel" />
   <action id="OptimizeImports" />
+  <action id="RefactoringMenu1">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="RemoteHostView.Rename" />
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
