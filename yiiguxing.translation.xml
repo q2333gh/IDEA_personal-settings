@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="283" />
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="1598" />
     <option name="newTranslationDialogY" value="829" />
     <histories>
@@ -28,6 +28,11 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651656287451" />
+    <option name="lastTrimTime" value="1656120409786" />
+  </component>
+  <component name="Settings">
+    <option name="phoneticFontFamily" value="Microsoft YaHei UI" />
+    <option name="primaryFontFamily" value="Microsoft YaHei UI" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
