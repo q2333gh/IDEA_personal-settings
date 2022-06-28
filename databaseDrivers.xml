@@ -4,5 +4,10 @@
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
+    <driver id="java.sql.Driver" name="xugu Driver" driver-class="com.xugu.cloudjdbc.Driver">
+      <library>
+        <url>file://Z:/Doc2/0_虚谷/虚谷数据库V12_20220520-win/driver/xugu-jdbc-12.0.0.202205161412-RELEASE-win-x86_64/xugu-jdbc/xugu-jdbc-12.0.0.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
