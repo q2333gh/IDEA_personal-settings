@@ -40,7 +40,11 @@
     <keyboard-shortcut first-keystroke="escape" />
   </action>
   <action id="NavBar-cancel" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="OptimizeImports" />
+  <action id="OverrideMethods" />
   <action id="RemoteHostView.Rename" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
