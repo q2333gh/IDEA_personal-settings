@@ -2,8 +2,13 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateKeyPromoterXToolWindow">
     <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="BookmarksView.Rename" />
