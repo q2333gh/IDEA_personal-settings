@@ -6,9 +6,13 @@
   <action id="ActivateKeyPromoterXToolWindow">
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt 7" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="BookmarksView.Rename" />
@@ -34,6 +38,9 @@
   <action id="EditorDeleteLine" />
   <action id="EditorEscape" />
   <action id="EditorSelectWord" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="EmmetPreviousEditPoint" />
   <action id="EscUnfollowUserAction" />
   <action id="FileStructurePopup" />
@@ -100,5 +107,6 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="UsageGrouping.FlattenModules" />
+  <action id="Vcs.QuickListPopupAction" />
   <action id="XDebugger.SetValue" />
 </keymap>
