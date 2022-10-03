@@ -34,6 +34,7 @@
   <action id="EditorDeleteLine" />
   <action id="EditorEscape" />
   <action id="EditorSelectWord" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="EscUnfollowUserAction" />
   <action id="FileStructurePopup" />
   <action id="FocusEditor" />
@@ -55,6 +56,9 @@
   <action id="NextDiff" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OpenProjectGroup">
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
   <action id="OptimizeImports" />
   <action id="OverrideMethods" />
