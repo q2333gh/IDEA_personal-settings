@@ -91,6 +91,9 @@
   </action>
   <action id="Session.Rename" />
   <action id="ShelvedChanges.Rename" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="SmartSelect" />
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f6" />
