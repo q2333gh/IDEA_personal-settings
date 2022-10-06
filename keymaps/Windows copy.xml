@@ -86,7 +86,9 @@
   <action id="ResetToMySettings">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
   </action>
-  <action id="Resume" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="Session.Rename" />
   <action id="ShelvedChanges.Rename" />
   <action id="SmartSelect" />
