@@ -1,16 +1,11 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="GuiDesigner.MainToolbarActions" is_group="true" action_type="-1" position="18">
+    <group value="GuiDesigner.MainToolbarActions" is_group="true" action_type="-1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="TranslationToolBar" is_group="true" action_type="-1" position="17">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="tasks.toolbar" is_group="true" action_type="-1" position="16">
+    <group value="tasks.toolbar" is_group="true" action_type="-1" position="14">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
