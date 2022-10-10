@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="sqls" type="AUTO_DETECTED" />
+      <mapping ext="ysl" type="PLAIN_TEXT" />
       <mapping pattern="mybatis-config" type="XML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
