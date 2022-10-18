@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="globalVar.vue" type="AUTO_DETECTED" />
       <mapping pattern="sqls" type="AUTO_DETECTED" />
       <mapping ext="ysl" type="PLAIN_TEXT" />
       <mapping pattern="mybatis-config" type="XML" />
