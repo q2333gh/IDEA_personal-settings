@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="globalVar.vue" type="AUTO_DETECTED" />
       <mapping pattern="sqls" type="AUTO_DETECTED" />
+      <mapping pattern="testKill.sh" type="AUTO_DETECTED" />
       <mapping ext="ysl" type="PLAIN_TEXT" />
       <mapping pattern="mybatis-config" type="XML" />
       <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
