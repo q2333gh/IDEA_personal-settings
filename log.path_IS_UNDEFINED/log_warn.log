@@ -1,6 +1,0 @@
-2023-07-10 10:01:49.746 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.btwl.eduservice.mapper.*]' package. Please check your configuration.
-2023-07-10 10:01:51.587 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
-2023-07-10 10:01:51.590 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
-2023-07-10 10:10:52.195 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.btwl.eduservice.mapper.*]' package. Please check your configuration.
-2023-07-10 10:10:54.147 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
-2023-07-10 10:10:54.159 [main] WARN  com.netflix.config.sources.URLConfigurationSource - No URLs will be polled as dynamic configuration sources.
