@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value=" C:\Windows\System32\wsl.exe --distribution ubt --exec /bin/fish" />
+    <option name="myShellPath" value="C:\Windows\system32\cmd.exe" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
