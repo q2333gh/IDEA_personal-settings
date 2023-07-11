@@ -18,12 +18,18 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="UsageGrouping.DirectoryStructure" />
 </keymap>
