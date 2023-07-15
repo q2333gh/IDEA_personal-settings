@@ -9,7 +9,13 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseBlock">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
   <action id="CompileDirty" />
+  <action id="Console.History.Browse" />
+  <action id="Console.Jdbc.BrowseHistory" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.SetDefault" />
   <action id="CopyElement" />
@@ -32,6 +38,7 @@
   <action id="ModifyObject" />
   <action id="Move" />
   <action id="NextDiff" />
+  <action id="PerforceDirect.Edit" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -57,6 +64,7 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="TableResult.GrowSelection" />
+  <action id="ToggleFindInSelection" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageFiltering.WriteAccess" />
