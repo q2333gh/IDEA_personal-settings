@@ -6,6 +6,7 @@
       <w>btwl</w>
       <w>chapterid</w>
       <w>clientedu</w>
+      <w>commonutils</w>
       <w>datas</w>
       <w>dclassifier</w>
       <w>dfcf</w>
@@ -23,8 +24,10 @@
       <w>priorty</w>
       <w>pswd</w>
       <w>qrconnect</w>
+      <w>servicebase</w>
       <w>snsapi</w>
       <w>spbill</w>
+      <w>springsecurity</w>
       <w>ucenter</w>
       <w>zwlpho</w>
     </words>
