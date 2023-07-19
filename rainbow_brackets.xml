@@ -5,6 +5,7 @@
     <option name="rainbowVariablesOptionShowed" value="true" />
     <option name="rainbowifyTagNameInXML" value="true" />
     <option name="suppressBigFileCheck" value="true" />
+    <option name="suppressLicenseBanner" value="true" />
     <option name="version" value="2023.3.1-ij" />
   </component>
 </application>
